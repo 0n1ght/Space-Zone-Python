@@ -2,6 +2,7 @@
 2p python game where you can fight a battle with your friend.
 
 ## Gameplay screen-shoot
+![Screenshot 2024-06-23 135903](https://github.com/KarolKasperek/Space-Zone-Python/assets/105314335/5c733e12-9202-4f26-ab58-df3c6a15de78)
 
 ## How to play?
 - Download project as zip file or if you have git downloaded, using
@@ -16,3 +17,6 @@ pip install pygame
 ```
 python main.py
 ```
+
+
+<sub>Inspired by TechWithTim</sub>
